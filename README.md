@@ -1,4 +1,4 @@
 # deezer-brute
-Brutally discover new music
+ Brutally discover new music
 
-2023
+ 2023
